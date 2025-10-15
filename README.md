@@ -1,16 +1,49 @@
-# zoom_clone
+# 🎥 Zoom Clone App
 
-A new Flutter project.
+A **real-time video conferencing app** built with **Flutter** and **Firebase**, inspired by Zoom.  
+This project enables users to create, join, and host video meetings seamlessly with high-quality video and audio.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+✅ **User Authentication**
+- Secure Sign In / Sign Up using Firebase Authentication  
+- Google Sign-In Integration  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ **Video & Audio Calls**
+- Create and join meetings with unique meeting IDs  
+- Mute/unmute audio and enable/disable video during calls  
+- Leave meeting anytime  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ **Real-Time Communication**
+- High-quality video conferencing powered by WebRTC  
+- Live participant management  
+
+✅ **Chat Integration**
+- Send real-time messages during meetings  
+
+✅ **Meeting Management**
+- Create meeting codes  
+- Join existing meetings  
+- Track meeting duration and participants  
+
+✅ **Cross Platform**
+- Works on Android, iOS, and Flutter Web  
+
+---
+
+## 🧰 Tech Stack
+
+| Component        | Technology Used                          |
+|------------------|-------------------------------------------|
+| **Frontend**     | Flutter (Dart)                            |
+| **Backend**      | Firebase (Auth, Firestore, Storage)       |
+| **Video Engine** | ZegoCloud / Jitsi Meet SDK / WebRTC       |
+| **State Mgmt.**  | Provider                                  |
+| **Auth**         | Firebase Authentication (Email/Google)    |
+
+---
+
+## 📂 Folder Structure
+
