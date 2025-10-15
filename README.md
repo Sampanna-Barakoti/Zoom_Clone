@@ -39,11 +39,8 @@ This project enables users to create, join, and host video meetings seamlessly w
 |------------------|-------------------------------------------|
 | **Frontend**     | Flutter (Dart)                            |
 | **Backend**      | Firebase (Auth, Firestore, Storage)       |
-| **Video Engine** | ZegoCloud / Jitsi Meet SDK / WebRTC       |
-| **State Mgmt.**  | Provider                                  |
-| **Auth**         | Firebase Authentication (Email/Google)    |
+| **Video Engine** | Jitsi Meet SDK                            |
+| **State Mgmt.**  | ..........                                |
+| **Auth**         | Firebase Authentication (Google)          |
 
----
-
-## 📂 Folder Structure
 
