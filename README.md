@@ -38,7 +38,7 @@ This project enables users to create, join, and host video meetings seamlessly w
 |------------------|-------------------------------------------|
 | **Frontend**     | Flutter (Dart)                            |
 | **Backend**      | Firebase (Auth, Firestore, Storage)       |
-| **Video Engine** | Jitsi Meet SDK                            |
+| **Video Engine** | ...........                          |
 | **State Mgmt.**  | ..........                                |
 | **Auth**         | Firebase Authentication (Google)          |
 
