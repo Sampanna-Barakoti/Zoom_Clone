@@ -28,7 +28,7 @@ This project enables users to create, join, and host video meetings seamlessly w
 - Track meeting duration and participants  
 
 ✅ **Cross Platform**
-- Works on Android, iOS, and Flutter Web  
+- Works on Android , Updates need for ios 
 
 ---
 
