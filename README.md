@@ -8,7 +8,6 @@ This project enables users to create, join, and host video meetings seamlessly w
 ## 🚀 Features
 
 ✅ **User Authentication**
-- Secure Sign In / Sign Up using Firebase Authentication  
 - Google Sign-In Integration  
 
 ✅ **Video & Audio Calls**
@@ -17,7 +16,7 @@ This project enables users to create, join, and host video meetings seamlessly w
 - Leave meeting anytime  
 
 ✅ **Real-Time Communication**
-- High-quality video conferencing powered by WebRTC  
+- High-quality video conferencing powered by ........ 
 - Live participant management  
 
 ✅ **Chat Integration**
